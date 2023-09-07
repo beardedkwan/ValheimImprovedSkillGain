@@ -14,7 +14,7 @@ namespace ImprovedSkillGain
     public class PluginInfo
     {
         public const string Name = "ImprovedSkillGain";
-        public const string Guid = "deadcliffdivers.ImprovedSkillGain";
+        public const string Guid = "beardedkwan.ImprovedSkillGain";
         public const string Version = "1.0.0";
     }
 
